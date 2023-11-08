@@ -1,2 +1,2 @@
 # SmartIndiaHackGame
-##We  are making a game in this repo
+## We  are making a game in this repo
